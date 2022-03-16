@@ -2,3 +2,4 @@
 
 こんにちは、GitHub!
 こんばんわ、GitHub!
+GoodBye!!
