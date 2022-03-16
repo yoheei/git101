@@ -3,3 +3,4 @@
 こんにちは、GitHub!
 こんばんわ、GitHub!
 GoodBye!!
+HELLO, WORLD!!!
